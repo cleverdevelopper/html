@@ -3,7 +3,7 @@
         'name' => 'html/html',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'f929fbfccab8bc792f1d696b250b7647d7a9d84a',
+        'reference' => '7463eef8a7f072c99263e248b3cf1334b93f5442',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -40,7 +40,7 @@
         'html/html' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'f929fbfccab8bc792f1d696b250b7647d7a9d84a',
+            'reference' => '7463eef8a7f072c99263e248b3cf1334b93f5442',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
